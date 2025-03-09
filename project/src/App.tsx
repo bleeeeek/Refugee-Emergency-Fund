@@ -63,7 +63,9 @@ function App() {
               <div className="absolute inset-0 border-2 border-[#2d3748] rounded-lg transform translate-x-1 translate-y-1 -z-10"></div>
             </a>
             <a
-              href="#"
+               href="https://chat.whatsapp.com/DE05OauovRx0Tcms3jbc2M  "
+               target="_blank"
+               rel="noopener noreferrer"
               className="group relative inline-flex items-center gap-2 px-6 py-3 bg-[#4ecdc4] text-white rounded-lg font-['Indie_Flower'] text-xl transform transition hover:scale-105"
               style={{
                 boxShadow: '3px 3px 0 #2d3748',
