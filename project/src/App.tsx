@@ -1,7 +1,7 @@
 import { Heart, FileText } from 'lucide-react';
 
 function App() {
-  const currentAmount = 1438;
+  const currentAmount = 1958;
   const targetAmount = 4000;
 
   return (
